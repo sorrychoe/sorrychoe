@@ -4,9 +4,6 @@
 <h3>I am a R-User for Data Mining & Data analysis</h3>
 <h4>Especially, I use R at Text-Mining & Data Visualization</h4>
 <h4>For Data analytics & ML, I usually use Statistical Method</h4>
-<br />
-<h5>My Job is Programmming Educator & Education Manager</h5>
-<h5>In the past, I worked as a Journalist of university newspaper</h5>
 <hr />
 <h3>💻Languages & Skills🛠</h3>
 <p>
@@ -22,7 +19,8 @@
   <br />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
 </p>
 <br />
 <h3>📲Communication & Collaboration 📠</h3>
