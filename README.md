@@ -28,6 +28,13 @@
 <br />
 <h3>📲Communication & Collaboration 📠</h3>
 <p>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jirao&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;
+  <br/>
   <img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=Rstudio&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>&nbsp;
@@ -35,11 +42,6 @@
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=Power BI&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>&nbsp;
   <br />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
 </p>
 <br />
 <br />
