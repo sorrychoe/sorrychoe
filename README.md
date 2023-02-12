@@ -5,7 +5,7 @@
 <h4>Especially, I use R at Text-Mining & Data Visualization</h4>
 <h4>For Data analytics & ML, I usually use Statistical Method</h4>
 <hr />
-<h3>💻Most Using Language & IDE🛠/h3>
+<h3>💻Most Using Language & IDE🛠</h3>
 <p>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
