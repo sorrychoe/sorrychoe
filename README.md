@@ -41,10 +41,10 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorrychoe&hide=jupyter%20notebook&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorrychoe&hide=jupyter%20notebook,HTML,CSS,Javascript&layout=Demo&theme=tokyonight)
 <br />
 <br />
-![sorrychoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorrychoe&show_icons=true&theme=radical)
+![sorrychoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorrychoe&show_icons=true&theme=tokyonight)
 
 <br />
 <hr />
