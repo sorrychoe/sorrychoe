@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🙋‍♂️Hello, I am Opinion Miner⛏</h1>
+<h3>🙋‍♂️Hello, I am Opinion Miner⛏</h3>
 <br/>
 <h3>I'm working as journalism analyst</h3>
 <h4>Especially, I use R at Text-Mining & Data Visualization</h4>
