@@ -1,13 +1,13 @@
 <div align="center">
 <br/>
-<h2>🙋‍♂️Hello, I am Opinion Miner⛏</h2>
+<h3>🙋‍♂️Hello, I am Opinion Miner⛏</h3>
 <br/>
 <h3>I'm working as journalism analyst</h3>
 <h4>Especially, I use R at Text-Mining & Data Visualization</h4>
 <h4>For Data analytics & ML, I usually use Statistical Method</h4>
 <hr/>
 <br/>
-<h2>💻Tech Stack📲</h2>
+<h3>💻Tech Stack📲</h3>
 <br/>
 <p>
   <a href="https://skillicons.dev">
