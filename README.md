@@ -1,15 +1,17 @@
 <div align="center">
-<h3>🙋‍♂️Hello, I am Opinion Miner⛏</h3>
+<br/>
+<h2>🙋‍♂️Hello, I am Opinion Miner⛏</h2>
 <br/>
 <h3>I'm working as journalism analyst</h3>
 <h4>Especially, I use R at Text-Mining & Data Visualization</h4>
 <h4>For Data analytics & ML, I usually use Statistical Method</h4>
-<hr />
-<h3>💻Tech Stack📲</h3>
+<hr/>
 <br/>
-<p align="center">
+<h2>💻Tech Stack📲</h2>
+<br/>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,mysql,git,md" />
+    <img src="https://skillicons.dev/icons?i=r,py,julia,md,git,mysql,postgres" />
   </a>
 </p>
 <br/>
@@ -20,7 +22,6 @@
 
 ![sorrychoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorrychoe&count_private=true&show_icons=true&theme=blue-green&show_icons=true)
 <br />
-<hr />
 
 
 
