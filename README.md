@@ -11,7 +11,7 @@
 <br/>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,julia,md,git,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=r,py,julia,git,md,mysql,postgres,selenium&perline=4" />
   </a>
 </p>
 <br/>
