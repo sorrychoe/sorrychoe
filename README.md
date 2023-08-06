@@ -27,13 +27,6 @@
 </p>
 
 **Github Stat**
-<p align="center">
-  <a href="https://github.com/devpla/github-stats">
-    <img src="https://github-readme-stats-sorrychoe.vercel.app/api?username=sorrychoe&rank_icon=github&custom_title=sorrychoe's%20github%20stats&hide=stars&count_private=true&show_icons=true&theme=tokyonight" width=61%/>
-  </a>
-</p>
-
-**My Commit Graph**
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
