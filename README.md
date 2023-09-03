@@ -5,7 +5,7 @@
 **Opinion Miner**
 
 - I'm interested in analyzing discourse represented at media environment of Korea
-- Especially, I use R,Python & Julia at Text-Mining & Data Visualization
+- Especially, I use R, Python & Julia at Text-Mining & Data Visualization
 - For Documentation & Presentation, I use Quarto frequently
 - I usually use Statistical Method for Data analytics & Machine Learning
 - In the Past, I'm worked as Test Automation & QA Engineer
@@ -15,14 +15,14 @@
 **Main Stack**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,julia,bash,linux,selenium,git,githubactions,md"/>
+    <img src="https://skillicons.dev/icons?i=r,py,julia,bash,linux,docker,selenium,git,githubactions,md"/>
   </a>
 </p>
 
 **Sub Stack**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,go,docker,azure,aws,postgres,mysql"/>
+    <img src="https://skillicons.dev/icons?i=c,cs,go,js,azure,aws,postgres,mysql"/>
   </a>
 </p>
 
