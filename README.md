@@ -22,7 +22,7 @@
 **Sub Stack**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,go,js,azure,aws,postgres,mysql"/>
+    <img src="https://skillicons.dev/icons?i=js,go,c,cpp,cs,azure,aws,postgres,mysql"/>
   </a>
 </p>
 
