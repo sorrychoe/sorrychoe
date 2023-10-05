@@ -21,7 +21,7 @@
 **Framework**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,flask,rails,express,selenium"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,django,flask,rails,selenium"/>
   </a>
 </p>
 
