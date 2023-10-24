@@ -14,14 +14,14 @@
 **Language**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,julia,py,ruby,js,go"/>
+    <img src="https://skillicons.dev/icons?i=r,julia,py,js,go"/>
   </a>
 </p>
 
 **Framework**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask,selenium,rails,express"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask,selenium,express"/>
   </a>
 </p>
 
