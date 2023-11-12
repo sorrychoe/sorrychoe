@@ -6,29 +6,29 @@
 
 - I'm interested in analyzing discourse represented at media environment of Korea
 - I usually use Statistical Method for Data analytics & Machine Learning
-- I use R, Julia & Python frequently
-- I use Quarto for Documentation & Presentation
+- I use R, Julia & Python for data analytics
+- I use C++ & Go sometimes
 - Recently, I'm learning about web programming for make a dashboard
 
 
-**Language**
+**Main Skills**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,julia,py,js,go"/>
+    <img src="https://skillicons.dev/icons?i=r,py,julia,cpp,go,js"/>
   </a>
 </p>
 
-**Framework**
+**Frameworks**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask,selenium,express"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask,selenium"/>
   </a>
 </p>
 
 **Tools**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,sqlite,mysql,docker,bash,linux"/>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,sqlite,mysql,postgres,docker,linux,bash,vscode"/>
   </a>
 </p>
 
