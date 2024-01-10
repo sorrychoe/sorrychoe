@@ -5,30 +5,29 @@
 **Opinion Miner**
 
 - I'm interested in analyzing discourse represented at media environment of Korea
+- And, I'm interested in automation too.
 - I usually use Statistical Method for Data analytics & Machine Learning
-- I use R, Julia & Python for data analytics
-- I use C++ & Go sometimes
 - Recently, I'm learning about web programming for make a dashboard
 
 
 **Main Skills**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,julia,cpp,go,js"/>
+    <img src="https://skillicons.dev/icons?i=py,r,julia,cpp,go,js"/>
   </a>
 </p>
 
 **Frameworks**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask,selenium"/>
+    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow,fastapi,flask,selenium"/>
   </a>
 </p>
 
 **Tools**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,sqlite,mysql,postgres,docker,linux,bash,vscode"/>
+    <img src="https://skillicons.dev/icons?i=git,githubactions,mysql,postgres,anaconda,linux,docker,vscode,vim"/>
   </a>
 </p>
 
