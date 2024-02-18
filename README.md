@@ -10,7 +10,7 @@
 - Recently, I'm learning about web programming for make a dashboard
 
 
-**Main Skills**
+**Languages**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,julia,cpp,go,js"/>
