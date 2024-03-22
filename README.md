@@ -13,7 +13,7 @@
 **Languages**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,julia,matlab,go,js,ruby,c,cpp,cs"/>
+    <img src="https://skillicons.dev/icons?i=py,r,julia,matlab,c,cpp,cs,ruby,js,go"/>
   </a>
 </p>
 
