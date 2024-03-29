@@ -13,15 +13,15 @@
 **Languages**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,julia,matlab,c,cpp,go,js,ruby,cs"/>
+    <img src="https://skillicons.dev/icons?i=r,py,julia,matlab,c,cpp,cs,js,ruby,go"/>
   </a>
 </p>
 
 **Frameworks**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow,flask,fastapi,django,rails,selenium"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow,selenium,flask,fastapi,django,rails,express"/>
+   </a>
 </p>
 
 **Tools**
