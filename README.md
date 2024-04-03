@@ -20,7 +20,7 @@
 **Frameworks**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,pytorch,tensorflow,scikit-learn,selenium,flask,fastapi,django,rails"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,selenium,flask,fastapi,django,rails"/>
    </a>
 </p>
 
