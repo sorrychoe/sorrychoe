@@ -4,23 +4,23 @@
 
 **Opinion Miner**
 
-- I'm interested in analyzing discourse represented at media environment of Korea
-- And, I'm interested in automation too.
-- I usually use Statistical Method for Data analytics & Machine Learning
-- Recently, I'm learning about web programming for make a dashboard & prototype
+- I'm interested in analyzing discourse represented at Mass & New Media.
+- And, I'm interested in automation & Visualization too.
+- I usually use Statistical Method for Data analytics & Machine Learning.
+- Recently, I'm learning about web programming for make a dashboard & prototype.
 
 
 **Languages**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,julia,matlab,c,cpp,cs,js,ruby,go"/>
+    <img src="https://skillicons.dev/icons?i=r,py,julia,matlab,cpp,c,go,js,ruby,cs"/>
   </a>
 </p>
 
 **Frameworks**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow,selenium,flask,fastapi,django,rails,express"/>
+    <img src="https://skillicons.dev/icons?i=,pytorch,tensorflow,scikit-learn,selenium,flask,fastapi,django,rails"/>
    </a>
 </p>
 
