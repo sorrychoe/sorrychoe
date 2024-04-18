@@ -13,7 +13,7 @@
 **Languages**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,julia,matlab,cpp,c,go,js,ruby,cs"/>
+    <img src="https://skillicons.dev/icons?i=r,py,julia,matlab,c,cpp,go,js,rust,ruby"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 **Tools**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,mysql,postgres,anaconda,linux,docker,k8s,vscode,neovim,unity"/>
+    <img src="https://skillicons.dev/icons?i=git,githubactions,mysql,postgres,linux,docker,k8s,anaconda,vscode,neovim"/>
   </a>
 </p>
 
