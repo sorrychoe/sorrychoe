@@ -5,29 +5,28 @@
 **Opinion Miner**
 
 - I'm interested in analyzing discourse represented at Mass & New Media.
-- And, I'm interested in automation & Visualization too.
+- And, I'm specialized in Automation & Data Visualization.
 - I usually use Statistical Method for Data analytics & Machine Learning.
-- Recently, I'm learning about web programming for make a dashboard & prototype.
 
 
 **Languages**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,julia,matlab,c,cpp,js,ruby,go"/>
+    <img src="https://skillicons.dev/icons?i=py,r,julia,matlab,js,nodejs,c,cpp,go"/>
   </a>
 </p>
 
 **Frameworks**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,selenium,flask,fastapi,django,rails"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,flask,django,fastapi,selenium,p5js,d3"/>
    </a>
 </p>
 
 **Tools**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,mysql,postgres,linux,docker,k8s,anaconda,vscode,neovim"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,git,githubactions,linux,docker,k8s,anaconda,vscode,neovim"/>
   </a>
 </p>
 
