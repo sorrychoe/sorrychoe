@@ -12,14 +12,14 @@
 **Languages**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,julia,matlab,js,nodejs,c,cpp,go"/>
+    <img src="https://skillicons.dev/icons?i=py,julia,r,matlab,c,cpp,go,js,nodejs"/>
   </a>
 </p>
 
 **Frameworks**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,flask,django,fastapi,selenium,p5js,d3"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,flask,fastapi,django,selenium,p5js,d3"/>
    </a>
 </p>
 
@@ -32,9 +32,8 @@
 
 **Github Stat**
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sorrychoe&custom_title=sorrychoe's%20commit%20graph&theme=tokyo-night"
-    width=95%/>
-  </a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorrychoe&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorrychoe&theme=2077&exclude=Jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorrychoe&theme=2077&exclude=Jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorrychoe&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorrychoe&theme=2077&utcOffset=8)
