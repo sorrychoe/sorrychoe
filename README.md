@@ -33,7 +33,7 @@
 **Github Stat**
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorrychoe&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorrychoe&theme=2077&exclude=Jupyter%20Notebook)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorrychoe&theme=2077&exclude=Jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorrychoe&theme=2077&exclude=Jupyter%20Notebook&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorrychoe&theme=2077&exclude=Jupyter%20Notebook&exclude=html)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorrychoe&theme=2077) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorrychoe&theme=2077&utcOffset=8)
