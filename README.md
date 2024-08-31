@@ -8,27 +8,26 @@
 - And, I'm specialized in Automation & Data Visualization.
 - I usually use Statistical Method for Data analytics & Machine Learning.
 
+<br/>
 
-**Languages**
+**Tech Stack**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,julia,r,matlab,c,cpp,go,js,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=r,py,julia,matlab,html,css,js,nodejs,c,cpp,go"/>
   </a>
 </p>
-
-**Frameworks**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,flask,fastapi,django,selenium,p5js,d3"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,selenium,fastapi,django,flask,express,react,d3,p5js"/>
    </a>
 </p>
-
-**Tools**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,git,githubactions,linux,docker,k8s,anaconda,vscode,neovim"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,bash,git,githubactions,anaconda,docker,linux,aws"/>
   </a>
 </p>
+
+<br/>
 
 **Github Stat**
 
