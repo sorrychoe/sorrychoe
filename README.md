@@ -28,7 +28,7 @@
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,linux,docker,netlify,heroku,vercel,aws"/>
+    <img src="https://skillicons.dev/icons?i=anaconda,linux,docker,aws,azure"/>
   </a>
 </p>
 
