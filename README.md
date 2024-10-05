@@ -13,7 +13,7 @@
 **Tech Stack**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,julia,go,html,css,js"/>
+    <img src="https://skillicons.dev/icons?i=r,py,julia,go,js,html,css"/>
   </a>
 </p>
 <p>
@@ -28,7 +28,7 @@
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,linux,docker,aws,azure"/>
+    <img src="https://skillicons.dev/icons?i=markdown,linux,docker,aws,azure,neovim,vscode"/>
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 **Github Stat**
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorrychoe&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorrychoe&theme=2077&exclude=Jupyter%20Notebook,html)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorrychoe&theme=2077&exclude=Jupyter%20Notebook,html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorrychoe&theme=2077&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorrychoe&theme=2077&exclude=html)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorrychoe&theme=2077) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorrychoe&theme=2077&utcOffset=8)
