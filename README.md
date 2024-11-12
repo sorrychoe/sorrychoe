@@ -13,7 +13,7 @@
 **Tech Stack**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,julia,go,js,html,css"/>
+    <img src="https://skillicons.dev/icons?i=py,r,julia,matlab,html,css,js"/>
   </a>
 </p>
 <p>
@@ -28,7 +28,7 @@
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=markdown,linux,docker,aws,azure,neovim,vscode"/>
+    <img src="https://skillicons.dev/icons?i=markdown,latex,linux,docker,aws,neovim,vscode"/>
   </a>
 </p>
 
