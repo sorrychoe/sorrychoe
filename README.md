@@ -13,7 +13,7 @@
 **Tech Stack**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,julia,matlab,html,css,js"/>
+    <img src="https://skillicons.dev/icons?i=r,julia,py,js,ts,html,css"/>
   </a>
 </p>
 <p>
