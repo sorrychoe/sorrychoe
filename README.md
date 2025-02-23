@@ -13,22 +13,27 @@
 **Tech Stack**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,julia,js,ts,html,css"/>
+    <img src="https://skillicons.dev/icons?i=r,py,julia,js,ts"/>
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,selenium,flask,react,express,nestjs"/>
+    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow,selenium,react"/>
    </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,markdown,latex,figma"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,git"/>
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,git,github,githubactions"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,docker,aws,githubactions"/>
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=markdown,latex,html,css,figma"/>
   </a>
 </p>
 
