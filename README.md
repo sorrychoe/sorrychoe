@@ -23,12 +23,12 @@
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,git"/>
+    <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,docker"/>
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,docker,aws,githubactions"/>
+    <img src="https://skillicons.dev/icons?i=bash,git,aws,githubactions"/>
   </a>
 </p>
 <p>
