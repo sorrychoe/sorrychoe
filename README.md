@@ -16,7 +16,7 @@
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,scikitlearn,pytorch,selenium,react,html,css,regex,markdown,latex,notion,figma,vscode"/>
+    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,selenium,react,anaconda,npm,html,css,markdown,latex,notion,figma,vscode"/>
    </a>
 </p>
 
