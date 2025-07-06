@@ -2,23 +2,21 @@
 
 <hr/>
 
-**Opinion Miner**
-
-- I'm interested in analyzing discourse represented at Mass & New Media.
-- And, I'm specialized in Automation & Data Visualization.
-- I usually use Statistical Method for Data analytics & Machine Learning.
+- Data analyst with experience across Education, Marketing, and QA domains.  
+- Communication researcher who applies computational social science methods to uncover patterns in media discourse, public opinion, and social behavior.  
+- Passionate about bridging industry practice and academic research through interdisciplinary approaches and real-world insights.
 
 <br/>
 
 **Tech Stack**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,julia,js,mysql,redis,mongodb,bash,git,docker,githubactions,aws"/>
+    <img src="https://skillicons.dev/icons?i=py,r,julia,js,mongodb,mysql,bash,docker,git,github,githubactions,aws,azure"/>
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,selenium,react,html,css,markdown,latex"/>
+    <img src="https://skillicons.dev/icons?i=anaconda,scikitlearn,pytorch,selenium,react,html,css,regex,markdown,latex,notion,figma,vscode"/>
    </a>
 </p>
 
