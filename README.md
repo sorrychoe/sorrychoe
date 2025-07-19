@@ -6,21 +6,6 @@
 - Communication researcher who applies computational social science methods to uncover patterns in media discourse, public opinion, and social behavior.  
 - Passionate about bridging industry practice and academic research through interdisciplinary approaches and real-world insights.
 
-<br/>
-
-**Tech Stack**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,julia,js,mongodb,mysql,bash,docker,git,github,githubactions,aws,azure"/>
-  </a>
-</p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,selenium,react,anaconda,npm,html,css,markdown,latex,notion,figma,vscode"/>
-   </a>
-</p>
-
-
 
 <br/>
 
