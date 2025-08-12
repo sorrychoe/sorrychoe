@@ -2,9 +2,11 @@
 
 <hr/>
 
-- Data analyst with experience across Education, Marketing, and QA domains.  
-- Communication researcher who applies computational social science methods to uncover patterns in media discourse, public opinion, and social behavior.  
-- Passionate about bridging industry practice and academic research through interdisciplinary approaches and real-world insights.
+- Data analyst with experience across HR, education, and marketing.
+
+- I apply computational social science methods to explore patterns in media discourse, public opinion, and social behavior.
+
+- Passionate about connecting industry practice and academic research through interdisciplinary thinking and real-world data.
 
 
 <br/>
