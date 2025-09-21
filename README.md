@@ -2,11 +2,9 @@
 
 <hr/>
 
-- Data analyst with experience across HR, education, and marketing.
-
-- I apply computational social science methods to explore patterns in media discourse, public opinion, and social behavior.
-
-- Passionate about connecting industry practice and academic research through interdisciplinary thinking and real-world data.
+- Data-driven professional with experience across HRD, Education, and Marketing field.
+- Specialized in computational methods to uncover patterns in media discourse, public opinion, and social behavior.
+- Passionate about integrating theoretical frameworks with practical applications to drive insights from real-world data.
 
 
 <br/>
