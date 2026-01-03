@@ -2,7 +2,7 @@
 
 <hr/>
 
-- Data-driven professional with experience across HR, Education, and Marketing field.
+- Data-driven professional with experience across HR, Marketing and Research field.
 - Specialized in computational methods to uncover patterns in media discourse, public opinion, and social behavior.
 - Passionate about integrating theoretical frameworks with practical applications to drive insights from real-world data.
 
