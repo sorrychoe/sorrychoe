@@ -1,11 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&pause=1000&color=1D77F7&center=true&vCenter=true&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8FHello%2C+I+am+Opinion+Miner+%E2%9B%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&pause=1000&color=1D77F7&center=true&vCenter=true&width=435&lines=-F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8FHello%2C+I+am+Sorrychoe+%E2%9B%8F)](https://git.io/typing-svg)
 
 <hr/>
 
-- Data-driven professional with experience across HR, Marketing and Research field.
-- Specialized in computational methods to uncover patterns in media discourse, public opinion, and social behavior.
-- Passionate about integrating theoretical frameworks with practical applications to drive insights from real-world data.
+- Computational Communication researcher bridging social science theory and data science methods.
 
+- Experienced in HRD & Marketing, including large-scale data integration, visualization, and performance analysis.
+
+- Proficient in Python and R, applying computational approaches such as Topic Modeling and Text Clustering.
+
+- Passionate about leveraging computational methods to advance communication research, connecting academic inquiry with societal impact.
 
 <br/>
 
