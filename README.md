@@ -6,8 +6,6 @@
 
 - Experienced in HRD & Marketing, including large-scale data integration, visualization, and performance analysis.
 
-- Proficient in Python and R, applying computational approaches such as Topic Modeling and Text Clustering.
-
 - Passionate about leveraging computational methods to advance communication research, connecting academic inquiry with societal impact.
 
 <br/>
