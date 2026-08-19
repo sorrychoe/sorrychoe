@@ -2,7 +2,7 @@
 
 <hr/>
 
-- Computational Communication researcher bridging social science theory and data science methods.
+- Communication researcher bridging social science theory and computational methods.
 
 - Experienced in HRD & Marketing, including large-scale data integration, visualization, and performance analysis.
 
