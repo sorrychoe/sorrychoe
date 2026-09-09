@@ -1,13 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&pause=1000&color=1D77F7&center=true&vCenter=true&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8FHello%2C+I+am+Jaeseong+Choe)](https://git.io/typing-svg)
 
 <hr/>
-
-- Communication researcher bridging social science theory and computational methods.
-
-- Experienced in HRD & Marketing, including large-scale data integration, visualization, and performance analysis.
-
-- Passionate about leveraging computational methods to advance communication research, connecting academic inquiry with societal impact.
-
 <br/>
 
 **Github Stat**
