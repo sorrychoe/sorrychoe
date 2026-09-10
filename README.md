@@ -2,7 +2,6 @@
 
 <hr/>
 <br/>
-<br/>
 
 **Github Stat**
 
